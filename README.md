@@ -2,7 +2,7 @@
 
 ### Gianluca Agnocchetti
 
-Full stack web developer &#8212; Tech lead | [about.gnlc.me](https://about.gnlc.me/)
+Full stack software developer &#8212; Tech lead | [about.gnlc.me](https://about.gnlc.me/)
 
 ### Wall of knowledge
 
