@@ -14,7 +14,7 @@ React, Next.js, React Native, Redux, Storybook, HTML5, CSS3, SCSS
 
 ### Backend & APIs
 
-Node.js (Express, NestJS, Fastify), Federated GraphQL (Apollo), API gateway, REST APIs, Serverless
+Node.js (Express, NestJS, Fastify), Federated GraphQL (Apollo), API gateway, REST APIs, OAuth2, Serverless
 
 ### Automation & Embedded Systems
 
@@ -22,7 +22,7 @@ Embedded Programming, Raspberry Pi (RPi), Arduino, Hardware Interfacing, Python 
 
 ### Engineering Standards
 
-Strict typing, generics, utility types, interface design, type-safe APIs, large-scale JS → TS migrations, ESLint, Prettier, modular architecture
+Strict typing, generics, utility types, interface design, type-safe APIs, large-scale JS → TS migrations, ESLint, AI-assisted development, modular architecture
 
 ### Testing & Quality
 
@@ -34,8 +34,8 @@ AWS (Lambda, ECS, EC2, RDS, S3), Docker, Terraform, CI/CD (GitHub Actions, Jenki
 
 ### Architecture
 
-System Design, Distributed Systems, Microservices, Event-Driven Architecture, High-Availability Systems, Micro Frontends, Serverless, Clean Architecture, TDD
+System Design, Distributed Systems, Microservices, Event-Driven Architecture, High-Availability Systems, Micro Frontends, Feature Flags, Serverless, Clean Architecture, TDD
 
 ### Databases
 
-PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+PostgreSQL, MySQL, MS SQL Server, MongoDB, Redis, Elasticsearch
