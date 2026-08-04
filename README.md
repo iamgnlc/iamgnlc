@@ -4,7 +4,8 @@ Full stack software developer &#8212; Tech lead | [gnlc.me](https://gnlc.me/)
 
 ## Core Technical Skills
 
-**Languages & Core**  
+### Languages & Core
+
 TypeScript, JavaScript (ES6+), Python, Ruby, PHP, SQL
 
 ### Frontend
